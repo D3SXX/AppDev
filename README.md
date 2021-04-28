@@ -1,1 +1,3 @@
-# AppDev (The first and the final projects)
+# AppDev (The first, Pascal's triangle and the final projects)
+
+Navigate by using brances
